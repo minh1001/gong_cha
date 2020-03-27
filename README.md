@@ -1,6 +1,8 @@
 # Gong-Cha Franchise Location Optimization
 
-### Objective: Help Gong-Cha shortlist potential locations for a new franchise. For each existing location in NYC, pull all data belonging to census tracts within 1-3 miles. 
+### Objective: Help Gong-Cha shortlist potential locations for a new franchise. 
+
+For each existing location in NYC, pull all data belonging to census tracts within 1-3 miles. 
 
 Build a model that will successfully predict the locations of the existing locations. If the model performs very well, review the false positive predictions as potential franchise locations. 
 
