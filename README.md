@@ -13,8 +13,4 @@ Build a model that will successfully predict the locations of the existing locat
 The idea here is if the model is good at predicting current locations, we should pay attention to the locations where it thought there was an existing location even though there wasn't. These locations must have possessed qualities that the model was looking for when identifying CURRENT locations.
 
 ### Data:
-Census ACS Data
-  Housing 
-  Economic
-  Demographic
-  Social
+Census American Community Survey (ACS) Data
