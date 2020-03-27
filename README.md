@@ -1,3 +1,4 @@
+![boba](https://github.com/minh1001/gong_cha_locations/blob/master/boba_tea.png)
 # Gong-Cha Franchise Location Optimization
 
 ### Objective: Help Gong-Cha shortlist potential locations for a new franchise. 
