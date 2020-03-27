@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="460" height="300" src="https://github.com/minh1001/gong_cha_locations/blob/master/boba_tea.png">
+  <img width="412" height="400" src="https://github.com/minh1001/gong_cha_locations/blob/master/boba_tea.png">
 </p>
 # Gong-Cha Franchise Location Optimization
 
