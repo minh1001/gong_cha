@@ -7,6 +7,8 @@
 ### Presentation Time Limit: 4 minutes
 The time constraints are purposefully kept short to force us to deliver our results in a clear and consise manner that can be digested by an audience of varying technical acumen.
 
+The slide deck is not meant to by any means comprehnsively detail the substantial amount of analysis, coding, and modeling that went into the project.
+
 ### Objective: Help Gong-Cha shortlist potential locations for a new franchise. 
 
 For each existing location in NYC, pull all data belonging to census tracts within 1-3 miles. 
