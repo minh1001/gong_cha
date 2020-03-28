@@ -19,6 +19,7 @@ The idea here is if the model is good at predicting current locations, we should
 
 ### Data:
 Census American Community Survey (ACS) Data
+Approx. 1900 features in total between Housing, Social, Economic, and Demographic statistics
 
 ### Code:
 All coding was done in a Jupyter Notebook via Google Colab.
