@@ -21,4 +21,4 @@ The idea here is if the model is good at predicting current locations, we should
 Census American Community Survey (ACS) Data
 
 ### Code:
-All coding was done in a Jupyter Notebook via Google Colab
+All coding was done in a Jupyter Notebook via Google Colab.
