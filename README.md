@@ -5,7 +5,7 @@
 # Gong-Cha Franchise Location Optimization
 
 ### Presentation Time Limit: 4 minutes
-The time constraints are purposefully kept short to force us to deliver our results in a clear and consise manner that can be digested by an audience of diverse technical acumen.
+The time constraints are purposefully kept short to force us to deliver our results in a clear and consise manner that can be digested by an audience of varying technical acumen.
 
 ### Objective: Help Gong-Cha shortlist potential locations for a new franchise. 
 
