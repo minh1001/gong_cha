@@ -4,6 +4,9 @@
 
 # Gong-Cha Franchise Location Optimization
 
+### Presentation Video
+https://youtu.be/HD7t4DGpr1U
+
 ### Presentation Time Limit: 4 minutes
 The time constraints are purposefully kept short to force us to deliver our results in a clear and consise manner that can be digested by an audience of varying technical acumen.
 
